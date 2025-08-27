@@ -1,10 +1,33 @@
-- 👋 Hi, I’m PradeepJadav
-- 👀 I’m interested in web applications, android & ios applications...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I'm Pradeep Jadav
 
-<!---
-pradeepjadav/Pradeep-Jadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a passionate developer who loves turning ideas into functional, user-friendly applications across web and mobile platforms.
+
+## 🚀 About Me
+
+- 👀 **Interests:**  
+  I’m deeply interested in building modern **web applications**, **Android & iOS apps**, and exploring **emerging technologies** in the world of software development.
+
+- 🌱 **Currently Learning:**  
+  Continuously improving my skills in **full-stack development**, diving into **Flutter**, **React**, **Node.js**, and learning about **DevOps** practices.
+
+- 🤝 **Looking to Collaborate On:**  
+  Exciting open-source projects, innovative app ideas, or anything that pushes boundaries and helps me grow as a developer.
+
+- 📫 **How to Reach Me:**  
+  - Email: (work.pradeep.jadav@gmail.com)  
+  - LinkedIn: (https://linkedin.com/in/pradeep-jadav/)
+
+## 🔧 Tech Stack
+
+- 💻 **Languages:** C#, T-SQL, JavaScript  
+- 🌐 **Frontend:** Angular, HTML, CSS  
+- 🛠️ **Backend:** .NET Core, .NET Framework, Node.js, Firebase, MongoDB, SQL Server  
+- 📱 **Mobile:** Android (Kotlin/Java), Flutter  
+- ⚙️ **Tools:** Git, GitHub, VS Code, Android Studio, Postman  
+
+## 📂 Featured Projects
+
+Take a look at some of my highlighted work below 👇  
+- Coming Soon....
+
+Thanks for stopping by! Let's build something great together 🚀
