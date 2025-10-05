@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer who loves turning ideas into fu
   I’m deeply interested in building modern **web applications**, **Android & iOS apps**, and exploring **emerging technologies** in the world of software development.
 
 - 🌱 **Currently Learning:**  
-  Continuously improving my skills in **full-stack development**, diving into **Flutter**, **React**, **Node.js**, and learning about **DevOps** practices.
+  Continuously improving my skills in **full-stack development**, diving into **C#**, **.NET Core**, **SQL/T-SQL**, **Cloud/Azure**, and learning about **DevOps** practices.
 
 - 🤝 **Looking to Collaborate On:**  
   Exciting open-source projects, innovative app ideas, or anything that pushes boundaries and helps me grow as a developer.
@@ -19,11 +19,11 @@ Welcome to my GitHub! I'm a passionate developer who loves turning ideas into fu
 
 ## 🔧 Tech Stack
 
-- 💻 **Languages:** C#, T-SQL, JavaScript  
-- 🌐 **Frontend:** Angular, HTML, CSS  
-- 🛠️ **Backend:** .NET Core, .NET Framework, Node.js, Firebase, MongoDB, SQL Server  
+- 💻 **Languages:** C#, T-SQL, JavaScript, TypeScript
+- 🌐 **Frontend:** Angular, HTML, CSS, and Frameworks
+- 🛠️ **Backend:** .NET Core, .NET Framework, Node.js, Firebase, MongoDB, SQL Server, Azure, and cloud  
 - 📱 **Mobile:** Android (Kotlin/Java), Flutter  
-- ⚙️ **Tools:** Git, GitHub, VS Code, Android Studio, Postman  
+- ⚙️ **Tools:** Git, GitHub, VS Code, Visual Studio, SSMS, Android Studio, Postman  
 
 ## 📂 Featured Projects
 
