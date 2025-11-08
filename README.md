@@ -55,6 +55,7 @@ Welcome to my GitHub! I'm a passionate developer who loves turning ideas into fu
 
 Take a look at some of my highlighted work below
 
-- Coming Soon....
+**[TaskTracker-DemoProject](https://github.com/pradeepjadav/TaskTracker-DemoProject)**  
+A simple task tracking system built with **.NET Core**, **Entity Framework**, and **SQL Server**, following a **3-tier architecture** and **repository pattern**.
 
 Thanks for stopping by! Let's build something great together
