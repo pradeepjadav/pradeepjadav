@@ -13,10 +13,6 @@ Welcome to my GitHub! I'm a passionate developer who loves turning ideas into fu
 - **Looking to Collaborate On:**  
   Exciting open-source projects, innovative app ideas, or anything that pushes boundaries and helps me grow as a developer.
 
-- **How to Reach Me:**  
-  - Email: (work.pradeep.jadav@gmail.com)  
-  - LinkedIn: (https://linkedin.com/in/pradeep-jadav/)
-
 ## Tech Stack
 
 - **Languages:** C#, T-SQL, JavaScript, TypeScript
